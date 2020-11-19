@@ -9,14 +9,14 @@ if(exists("g:lightline"))
     let s:gray3 = '#323c4d'
     let s:gray4 = '#51617d'
     let s:gray5 = '#9aa7bd'
-    let s:red = '#b15e7c'
-    let s:green = '#709d6c'
-    let s:yellow = '#b5a262'
-    let s:blue = '#608cc3'
-    let s:purple = '#8f72bf'
-    let s:cyan = '#56adb7'
-    let s:orange = '#b3785d'
-    let s:pink = '#c47ebd'
+    let s:red       = '#DF0025'     " シャアのノーマルスーツ
+    let s:green     = '#58A034'     " 旧ザク
+    let s:yellow    = '#F0D900'
+    let s:blue      = '#0066B0'
+    let s:purple    = '#84469A'
+    let s:cyan      = '#008DC2'
+    let s:orange    = '#E64F12'     " 1巻表紙
+    let s:pink      = '#E9797F'     " シャアザクのモノアイ
 
     let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
