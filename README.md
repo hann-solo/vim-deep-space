@@ -4,7 +4,9 @@
 
 Gundam-Like color (Gundam THE ORIGIN), based off of [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space).
 
-Below is the original document ---------
+
+
+---------- Below is the original document ----------
 
 
 An intergalactically friendly color scheme based off of [Hybrid](https://github.com/w0ng/vim-hybrid).
