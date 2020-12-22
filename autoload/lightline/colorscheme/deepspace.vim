@@ -9,7 +9,7 @@ if(exists("g:lightline"))
     let s:gray3     = '#3F434F'     " md num colomun
     let s:gray4     = '#515867'     " md comment
     let s:gray5     = '#B4BFD2'     " md text color
-    let s:red       = '#C42245'     " md
+    let s:red       = '#911A16'     " md
     let s:green     = '#087408'     " md
     let s:yellow    = '#EDAD0B'     " md
     let s:blue      = '#2962AD'     " md main color
